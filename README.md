@@ -5,7 +5,7 @@
 </div> 
 <br>
   
-### <div align="center"><strong>Hi! I am a iOS developer</strong></div>  
+### <div align="center"><strong>Hi! I am an iOS developer</strong></div>  
 
 <div align="center">I’m currently learning Swift/iOS and creating my own iOS applications.</div>  
   
