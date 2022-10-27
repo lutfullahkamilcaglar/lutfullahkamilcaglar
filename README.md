@@ -7,7 +7,7 @@
   
 ### <div align="center"><strong>Hi! I am a iOS developer</strong></div>  
 
-<div align="center">I’m currently learning Swift/IOS and creating my own IOS applications.</div>  
+<div align="center">I’m currently learning Swift/iOS and creating my own iOS applications.</div>  
   
 <br/>  
 
