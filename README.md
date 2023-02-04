@@ -7,7 +7,7 @@
   
 ### <div align="center"><strong>Hi! I am an iOS developer</strong></div>  
 
-<div align="center">I’m currently learning Swift/iOS and creating my own iOS applications.</div>  
+<div align="center">iOS developer and full-time learner constantly improving skills and creating innovative apps. Open to feedback and constructive criticism. Enjoys squashing bugs.</div>  
   
 <br/>  
 
