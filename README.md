@@ -19,6 +19,12 @@ My work spans UI, modular architecture, API integration and release delivery. Al
 - Integrate **REST APIs** and work on debugging, code reviews and maintainability.
 - Work with **Bitrise CI/CD**, release coordination and the **App Store release process**.
 
-## Independent work
+## Published Apps
 
-Alongside my professional work, I build independent mobile products, including **Mio**, a native iOS project built around questions and conversations for couples. I also experiment with Flutter apps and Unity game prototypes. They give me room to explore product ideas and make decisions across design and implementation.
+**[Fitly – AI Outfit & Wardrobe](https://apps.apple.com/pl/app/fitly-ai-outfit-wardrobe/id6762230273)**  
+A digital wardrobe and outfit planner with background removal, saved looks and AI-powered styling.
+
+**[Mio – Couples Questions](https://apps.apple.com/us/app/mio-couples-questions/id6787413123)**  
+An offline iOS app with conversation decks and question cards to help couples connect.
+
+Both apps are independently developed and available on the App Store.
